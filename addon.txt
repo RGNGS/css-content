@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Counter-Strike : Source Addon (August 2017)"
+	"version"			"10.0"
+	"up_date"			"26. June 2018"
+	"author_name"			"Kajar9"
+	"author_email"			"kajar8@gmail.com"
+	"author_url"			"http://cscheater.era.ee"
+	"info"				"Game Content or Maps Addon for GarrysMod"
+	"override"				"0"
+}
